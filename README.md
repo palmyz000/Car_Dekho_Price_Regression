@@ -105,9 +105,7 @@ To get this powerful application up and running on your local machine, simply fo
 ## 🚀 Usage
 
 Once you've successfully completed the installation and setup, you can effortlessly launch the Streamlit application:
-## 🚀 Live Application
 
-Experience the Car Price Predictor live! Click the link below to access the deployed Streamlit application:
 
 ![image](https://github.com/user-attachments/assets/3d86af14-bee0-42b1-b880-dde1f8129ce1)
 
@@ -121,5 +119,8 @@ This application has been meticulously designed for **effortless deployment** on
 The current version of this application is deployed on **Streamlit Community Cloud**.
 
 ---
-```bash
-streamlit run app.py
+## ✉️ Contact
+
+For any questions or suggestions, feel free to reach out:
+* Suphawit11@icloud.com
+* https://www.linkedin.com/in/suphawit-meesak/
